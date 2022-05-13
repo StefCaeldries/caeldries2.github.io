@@ -19,8 +19,13 @@ body {
   /* background-blend-mode: saturation; */
 }
 
+.underline{
+  text-decoration: underline;
+}
+
 #foto-ik {
   border-radius: 50%;
+  width: 60%;
 }
 
 #talenkennis {
